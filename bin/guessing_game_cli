@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
 
+2.6.1 :003 > input.chomp
+=> "hello"
+
 require_relative "../guessing_game_cli"
 
 run_guessing_game
